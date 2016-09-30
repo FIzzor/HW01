@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW01</string>
+    <string-array name="spinner">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
